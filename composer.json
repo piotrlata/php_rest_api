@@ -1,0 +1,17 @@
+{
+    "name": "piotr/rest_api",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "piotrlata",
+            "email": "latawiecpc@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
